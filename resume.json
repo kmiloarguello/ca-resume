@@ -1,0 +1,43 @@
+{
+    "Education": [
+        {
+            "Primary": "Colegio Soprinello Duitama"
+        },
+        {
+            "HighSchool": "Colegio Semnario Diocesano"
+        },
+        {
+            "Bachelor": "Universidad Militar Nueva Granada"
+        }
+    ],
+    "Experience":[
+        {
+            "MinTIC" : "Head of implementation Goverment online program"
+        },
+        {
+            "KAPTA" : "Software Developer"
+        },
+        {
+            "Unilatina" : "Android development professor"
+        },
+        {
+            "Cencosud": "Senior Software Engineer"
+        },
+        {
+            "Mostro Media": "IT Consultant"
+        }
+    ],
+    "Tech Stack": [
+        "Java",
+        "Javascript",
+        "Python"
+    ],
+    "Projects":[
+        {
+            "name" : "Harder Better",
+            "description" : "Musical app of Daft Punk song",
+            "repository" : "https://github.com/kmiloarguello/myBirthday24.git"
+        }
+    ],
+    "Contact": [ "camilo.arguello.rincon@gmail.com" ]
+}

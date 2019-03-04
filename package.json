@@ -1,0 +1,30 @@
+{
+  "name": "ca-resume",
+  "version": "1.0.1",
+  "description": "My CV as NPM Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmiloarguello/ca-resume.git"
+  },
+  "keywords": [
+    "CA",
+    "resume"
+  ],
+  "author": "Camilo Arguello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmiloarguello/ca-resume/issues"
+  },
+  "homepage": "https://github.com/kmiloarguello/ca-resume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "bin": {
+    "ca-resume": "./index.js"
+  }
+}
